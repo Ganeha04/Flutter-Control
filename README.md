@@ -1,4 +1,3 @@
-# Flutter-Control
 # Aerodynamic Wing Flutter Control Using IMU Sensor
 
 ## Overview
